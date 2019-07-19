@@ -39,9 +39,6 @@ class Ennemy:
     def move(self):
         pass
 
-    def ok(self):
-        pass
-
     def hit(self):
         """
         Returns if ennemy died and return true if it's the case
